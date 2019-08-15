@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+ - This is a simple project that include how to get a device location by using location package for Android and IOS devices.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
